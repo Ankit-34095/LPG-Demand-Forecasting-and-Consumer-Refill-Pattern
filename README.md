@@ -1,3 +1,7 @@
+Dataset Link:
+https://www.kaggle.com/datasets/ankitkumarchaubey1/lpg-dataset
+
+
 📌 Overview
 This project addresses two problems:
 - Demand Forecasting: Predict weekly LPG demand using historical data  
